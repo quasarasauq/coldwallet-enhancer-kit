@@ -1,0 +1,29 @@
+{
+  "name": "coldwallet-enhancer-kit",
+  "version": "1.0.0",
+  "description": "Cold Wallet Enhancer Kit boosts the security of cold wallets with key management and recovery tools.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/quasarasauq/coldwallet-enhancer-kit"
+  },
+  "author": "quasarasauq",
+  "license": "MIT",
+  "dependencies": {
+    "private-ledger-tool": "1.0.0",
+    "coldwallet-enhancer-kit": "1.0.0",
+    "eslint": "1.0.0",
+    "commander": "1.0.0",
+    "babel-core": "1.0.0",
+    "ejs": "1.0.0",
+    "xml2js": "1.0.0",
+    "enzyme": "1.0.0",
+    "cors": "1.0.0",
+    "dotenv": "1.0.0",
+    "chalk": "1.0.0",
+    "supertest": "1.0.0"
+  }
+}
